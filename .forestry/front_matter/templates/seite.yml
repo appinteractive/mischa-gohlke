@@ -32,6 +32,7 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
+- content/Aktivitäten/grenzen-sind-relativ-e.v.md
 - content/Aktivitäten/mischa-gohlke-band.md
 - content/media.md
 - content/start.md
