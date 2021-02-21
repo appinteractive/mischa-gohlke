@@ -32,4 +32,5 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
+- content/media.md
 - content/start.md
