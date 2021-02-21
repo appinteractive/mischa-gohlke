@@ -32,5 +32,6 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
+- content/Aktivitäten/mischa-gohlke-band.md
 - content/media.md
 - content/start.md
