@@ -2,7 +2,7 @@
   "menu": [
     {
       "title": "Bio / Über mich",
-      "page": "content/start.md",
+      "page": "content/index.md",
       "children": [
 
       ]
@@ -31,10 +31,11 @@
         {
           "title": "Workshops, Seminare & Vorträge",
           "page": null,
+          "showInMainNavigation": true,
           "children": [
             {
               "title": "Workshops, Seminare & Vorträge",
-              "page": "content/aktivitaeten/workshops-seminare-vortraege/allgemeine-infos.md",
+              "page": "content/aktivitaeten/workshops-seminare-vortraege/allgemeine-infos.md"
             },
             {
               "title": "WS \"Grenzen sind relativ - Musik, Kulturarbeit, systemische Inklusion & Beziehungskultur(en)\"",
