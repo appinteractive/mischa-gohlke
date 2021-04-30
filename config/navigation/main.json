@@ -3,7 +3,9 @@
     {
       "title": "Bio / Über mich",
       "page": "content/start.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
       "title": "Aktivitäten",
@@ -13,25 +15,33 @@
         {
           "title": "Mischa Gohlke Band",
           "page": "content/aktivitaeten/mischa-gohlke-band.md",
-          "children": [],
+          "children": [
+
+          ],
           "description": ""
         },
         {
           "title": "Grenzen sind relativ e.V.",
           "page": "content/aktivitaeten/grenzen-sind-relativ-e.v.md",
-          "children": [],
+          "children": [
+
+          ],
           "description": ""
         },
         {
-          "title": "Workshops, Speaker & Aktivismus",
-          "page": "content/aktivitaeten/workshops-seminare-vortrage.md",
-          "children": [],
+          "title": "Workshops, Seminare & Vorträge",
+          "page": null,
+          "children": [
+
+          ],
           "description": ""
         },
         {
           "title": "Blog",
           "page": "content/aktivitaeten/blog.md",
-          "children": [],
+          "children": [
+
+          ],
           "description": ""
         }
       ]
@@ -39,12 +49,16 @@
     {
       "title": "Videos/Media",
       "page": "content/media.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
       "title": "Kontakt",
       "page": "content/kontakt.md",
-      "children": []
+      "children": [
+
+      ]
     }
   ]
 }
