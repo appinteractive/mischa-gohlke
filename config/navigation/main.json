@@ -45,7 +45,12 @@
           "description": ""
         },
         {
-          "title": "Beratung & Coaching"
+          "title": "Beratung & Coaching",
+          "children": [
+            {
+              "title": "Beratung & Coaching"
+            }
+          ]
         },
         {
           "title": "Blog",
