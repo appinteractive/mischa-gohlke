@@ -2,10 +2,8 @@
   "menu": [
     {
       "title": "Bio / Über mich",
-      "page": "content/spenden.md",
-      "children": [],
-      "external": true,
-      "url": "/"
+      "page": "content/start.md",
+      "children": []
     },
     {
       "title": "Aktivitäten",
@@ -14,25 +12,25 @@
       "children": [
         {
           "title": "Mischa Gohlke Band",
-          "page": "content/media/videos.md",
+          "page": "content/aktivitaeten/mischa-gohlke-band.md",
           "children": [],
           "description": ""
         },
         {
           "title": "Grenzen sind relativ e.V.",
-          "page": "content/media/fotogalerien.md",
+          "page": "content/aktivitaeten/grenzen-sind-relativ-e.v.md",
           "children": [],
           "description": ""
         },
         {
           "title": "Workshops, Speaker & Aktivismus",
-          "page": "content/media/pressespiegel.md",
+          "page": "content/aktivitaeten/workshops-seminare-vortrage.md",
           "children": [],
           "description": ""
         },
         {
           "title": "Blog",
-          "page": "content/media/gsr-ev-channel.md",
+          "page": "content/aktivitaeten/blog.md",
           "children": [],
           "description": ""
         }
@@ -40,7 +38,7 @@
     },
     {
       "title": "Videos/Media",
-      "page": "content/spenden.md",
+      "page": "content/media.md",
       "children": []
     },
     {

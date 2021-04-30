@@ -1,12 +1,13 @@
 ---
 teaser: ''
-title: Media
+title: Blog
 description: ''
 wide: false
 gallery: []
 alias: ''
 
 ---
-# Media
+
+# Blog
 
 > Dummy Page
