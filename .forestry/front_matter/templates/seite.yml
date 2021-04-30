@@ -32,10 +32,5 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
-- content/Aktivitäten/beratung-coaching.md
-- content/Aktivitäten/blog.md
-- content/Aktivitäten/grenzen-sind-relativ-e.v.md
-- content/Aktivitäten/mischa-gohlke-band.md
-- content/Aktivitäten/workshops-seminare-vortrage.md
 - content/media.md
 - content/start.md
