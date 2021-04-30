@@ -33,13 +33,16 @@
           "page": null,
           "children": [
             {
-              "title": "Workshops, Seminare & Vorträge"
+              "title": "Workshops, Seminare & Vorträge",
+              "page": "content/aktivitaeten/workshops-seminare-vortraege/allgemeine-infos.md",
             },
             {
-              "title": "WS \"Grenzen sind relativ - Musik, Kulturarbeit, systemische Inklusion & Beziehungskultur(en)\""
+              "title": "WS \"Grenzen sind relativ - Musik, Kulturarbeit, systemische Inklusion & Beziehungskultur(en)\"",
+              "page": "content/aktivitaeten/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musik-kulturarbeit-systemische-inklusion-beziehungskultur-en.md"
             },
             {
-              "title": "WS \"Grenzen sind relativ - Musikunterricht für Hörgeschädigte\""
+              "title": "WS \"Grenzen sind relativ - Musikunterricht für Hörgeschädigte\"",
+              "page": "content/aktivitaeten/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musikunterricht-fur-horgeschadigte.md"
             }
           ],
           "description": ""
@@ -52,13 +55,15 @@
         },
         {
           "title": "Blog",
-          "page": "content/aktivitaeten/blog.md",
+          "page": null,
           "children": [
             {
-              "title": "Grenzen sind relativ – Musik, Hören und Inklusion "
+              "title": "Grenzen sind relativ – Musik, Hören und Inklusion",
+              "page": "content/aktivitaeten/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
             },
             {
-              "title": "Auf in eine neue Beziehungskultur!"
+              "title": "Auf in eine neue Beziehungskultur!",
+              "page": "content/aktivitaeten/blog/auf-in-eine-neue-beziehungskultur.md"
             }
           ],
           "description": ""

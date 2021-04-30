@@ -32,9 +32,9 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
-- content/Media/fotos.md
-- content/Media/pressespiegel.md
-- content/Media/videos.md
+- content/media/fotos.md
+- content/media/pressespiegel.md
+- content/media/videos.md
 - content/aktivitaeten/Blog/auf-in-eine-neue-beziehungskultur.md
 - content/aktivitaeten/Blog/grenzen-sind-relativ-musik-horen-und-inklusion.md
 - content/aktivitaeten/Workshops, Seminare & Vorträge/allgemeine-infos.md
