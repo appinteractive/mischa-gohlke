@@ -9,29 +9,18 @@
     },
     {
       "title": "Aktivitäten",
-      "page": "content/media.md",
       "showInMainNavigation": true,
       "children": [
         {
           "title": "Mischa Gohlke Band",
-          "page": "content/aktivitaeten/mischa-gohlke-band.md",
-          "children": [
-
-          ],
-          "description": ""
+          "page": "content/aktivitaeten/mischa-gohlke-band.md"
         },
         {
           "title": "Grenzen sind relativ e.V.",
-          "page": "content/aktivitaeten/grenzen-sind-relativ-e.v.md",
-          "children": [
-
-          ],
-          "description": ""
+          "page": "content/aktivitaeten/grenzen-sind-relativ-e.v.md"
         },
         {
           "title": "Workshops, Seminare & Vorträge",
-          "page": null,
-          "showInMainNavigation": true,
           "children": [
             {
               "title": "Workshops, Seminare & Vorträge",
@@ -45,18 +34,14 @@
               "title": "WS \"Grenzen sind relativ - Musikunterricht für Hörgeschädigte\"",
               "page": "content/aktivitaeten/workshops-seminare-vortraege/ws-grenzen-sind-relativ-musikunterricht-fur-horgeschadigte.md"
             }
-          ],
-          "description": ""
-        },
-        {
-          "title": "Beratung & Coaching",
-          "children": [
-
           ]
         },
         {
+          "title": "Beratung & Coaching",
+          "page": "content/aktivitaeten/beratung-coaching.md"
+        },
+        {
           "title": "Blog",
-          "page": null,
           "children": [
             {
               "title": "Grenzen sind relativ – Musik, Hören und Inklusion",
@@ -66,32 +51,31 @@
               "title": "Auf in eine neue Beziehungskultur!",
               "page": "content/aktivitaeten/blog/auf-in-eine-neue-beziehungskultur.md"
             }
-          ],
-          "description": ""
+          ]
         }
       ]
     },
     {
       "title": "Media",
-      "page": "content/media.md",
+      "showInMainNavigation": true,
       "children": [
         {
-          "title": "Pressespiegel"
+          "title": "Pressespiegel",
+          "page": "content/media/pressespiegel.md"
         },
         {
-          "title": "Videos"
+          "title": "Videos",
+          "page": "content/media/videos.md"
         },
         {
-          "title": "Fotos"
+          "title": "Fotos",
+          "page": "content/media/fotos.md"
         }
       ]
     },
     {
       "title": "Kontakt",
-      "page": "content/kontakt.md",
-      "children": [
-
-      ]
+      "page": "content/kontakt.md"
     }
   ]
 }
