@@ -30,6 +30,12 @@ Die Länge der Vorträge/Workshops/Seminare variieren je nach Rahmen der Veranst
 
 Die Vorträge, Workshops und Seminare möchten informieren, aufklären und den inklusiven Gedanken durch Multiplikatoren weitertragen. Zu den Zielgruppen zählen u.a. Universitäten, Schulen, Fachtagungen, Kongresse, Inklusionsveranstaltungen, u.v.m.
 
+## Referenzen
+
+Schulen, Universitäten, Fachtagungen, Kongresse, Symposien, usw. (Ausschnitt):
+
+Thementag „Inklusion im Kulturbetrieb“ (KMM Hamburg | Institut für Kultur- und Medienmanagement), Teamer-Wochenende (ABC Bildungs- & Tagungszentrum e.V.), Work in Progress (Kampnagel Hamburg), Jubiläumsveranstaltung (Lebenshilfe Norderstedt), Fachtagung Partizipation in der inklusiven Schule (Kiel Kronshagen), Inklusionstage 2015 (Berlin Congress Center), Schwarzmarkt (Kampnagel Hamburg), Internationales Symposium Fit on Stage an der Universität für Musik und darstellende Kunst (Wien), Institut für Musik (Hochschule Osnabrück), Hochschule für Musik, Theater und Medien (Hannover), Anna-Warburg-Schule (Hamburg), Fachkongress Der inklusive Norden – Alle sind willkommen (Kieler Schloss), Fachkongress Schulmusik (Landesinstitut für Lehrerbildung und Schulentwicklung Hamburg), 10. Bundeskongress des Bundesverband Deutscher Privatmusikschulen e.V. (Landesmusikakademie Hammelburg), Symposium Musik & Inklusion (staatliche Jugendmusikschule Hamburg), Wochenendworkshop Theaterprojekt pottfiction (Gelsenkirchen), Buntstifter Kongress Deutsches Rotes Kreuz (Berlin), DSB Bundesjugend Sommercamp (Borken), Projektwoche Stadtteilschule Mitte (Hamburg), Aktionstag Inklusion (Dinslaken), DSB Sommerkulturwochenende (Weimar), Heinrich-Böll-Stiftung (Hamburg), Gesundheitskongress (Landeszentrum Schleswig), Hamburg School of Music, Kreative Nord Kongress (Kiel), Elternabend (Jesteburg), u.v.m.
+
 <gallery>
 
 [![Uni](/media/2014/07/uni-n.jpg)](/media/2014/07/uni-n.jpg)
