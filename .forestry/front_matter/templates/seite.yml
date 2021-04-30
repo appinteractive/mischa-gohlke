@@ -32,6 +32,7 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
+- content/Media/fotos.md
 - content/Media/pressespiegel.md
 - content/Media/videos.md
 - content/aktivitaeten/Workshops, Seminare & Vorträge/allgemeine-infos.md
