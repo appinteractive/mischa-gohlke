@@ -51,7 +51,9 @@
           "title": "Blog",
           "page": "content/aktivitaeten/blog.md",
           "children": [
-
+            {
+              "title": "Grenzen sind relativ – Musik, Hören und Inklusion "
+            }
           ],
           "description": ""
         }
