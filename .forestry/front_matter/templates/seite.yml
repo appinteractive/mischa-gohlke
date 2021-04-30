@@ -32,5 +32,6 @@ fields:
   label: Alias
   description: Alte URL (optional)
 pages:
+- content/aktivitaeten/Workshops, Seminare & Vorträge/allgemeine-infos.md
 - content/media.md
 - content/start.md
