@@ -35,7 +35,9 @@
           "title": "Workshops, Seminare & Vorträge",
           "page": null,
           "children": [
-
+            {
+              "title": "Workshops, Seminare & Vorträge"
+            }
           ],
           "description": ""
         },
