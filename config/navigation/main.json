@@ -13,6 +13,9 @@
       "showInMainNavigation": true,
       "children": [
         {
+          "title": "Beratung & Coaching"
+        },
+        {
           "title": "Mischa Gohlke Band",
           "page": "content/aktivitaeten/mischa-gohlke-band.md",
           "children": [
