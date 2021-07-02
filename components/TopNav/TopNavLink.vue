@@ -1,7 +1,7 @@
 <template>
   <router-link
-  v-if="to"
-    v-slot="{ href, navigate }"
+    v-if="to"
+    v-slot="{ href, isActive, navigate }"
     class="flex cursor-pointer"
     tag="div"
     :to="to"
@@ -10,8 +10,8 @@
       role="link"
       :href="href"
       :class="[
-        isActive
-          ? 'text-gray-900'
+        isActive || isActiveDeep
+          ? 'text-gray-900 font-semibold'
           : 'text-gray-500 hover:text-primary-700',
       ]"
       @click="navigate"
@@ -27,26 +27,24 @@
 <script>
 export default {
   props: {
-    to: { type: [String, Object], default: null }
+    to: { type: [String, Object], default: null },
+    level: { type: Number, default: undefined },
   },
   computed: {
-    isActive() {
+    isActiveDeep() {
       const pathItems = this.$route.fullPath.split('/')
       const current = pathItems.pop()
       const path = pathItems.join('/')
-      const root = this.to.split('/')[1]
+      const root = this.to
+        .split('/')
+        .slice(1, this.level + 1)
+        .join('/')
 
-      if (path && this.to.includes(path)) {
-        return true
-      }
-      if (path.includes(root)) {
-        return true
-      }
-      if (current && this.to.includes(current)) {
+      if (this.level < 3 && path.includes(root)) {
         return true
       }
       return false
-    }
+    },
   },
 }
 </script>
