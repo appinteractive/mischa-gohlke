@@ -1,7 +1,7 @@
 ---
-teaser: ''
+teaser: '/media/2018/11/MGB.jpeg'
 title: Mischa Gohlke Band
-description: ''
+description: 'Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.'
 wide: false
 gallery: []
 alias: ''

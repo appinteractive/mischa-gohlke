@@ -1,7 +1,7 @@
 ---
-teaser: ''
+teaser: '/media/2020/09/ws-beitragsbild.jpg'
 title: Workshops, Seminare & Vorträge
-description: ''
+description: 'Mischa Gohlke hält Vorträge und gibt Workshops/Seminare u.a. zu folgenden Themen: Inklusives Veranstaltungsmanagement, Inklusive Kulturarbeit, Mentale Hörwahrnehmung & Multisensorische Wahrnehmungsebenen, Inklusion – Herleitung, Interpretationsansätze, status quo & Gesellschaft von morgen, Inklusion & Bildung, Inklusion, Quantenphysik und Bewusstseinsforschung, Gitarrenworkshops, Bandtraining und Bandcamps'
 wide: false
 gallery: []
 alias: ''

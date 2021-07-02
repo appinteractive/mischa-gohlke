@@ -2,9 +2,12 @@
 teaser: ''
 title: Über mich
 description: ''
-wide: false
+wide: true
 gallery: []
 alias: ''
+seite:
+- template: seite
+- template: slideshow
 
 ---
 
@@ -22,20 +25,8 @@ In der nach ihm benannten „[Mischa Gohlke Band](http://www.mischagohlkeband.de
 
 Darüber hinaus ist Mischa als Speaker, Dozent, Autor sowie als Aktivist u.a. in der Friedensbewegung aktiv.
 
-**Links:**
 
-N3 “Mischa Gohlke - Musiker ohne Gehör”:
+<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
-[https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
 
-BR3 “Sehen statt Hören - Portrait Mischa Gohlke: Grenzen sind relativ”:
-
-[https://youtu.be/XCACmrTMky8](https://youtu.be/XCACmrTMky8 "https://youtu.be/XCACmrTMky8")
-
-Musikvideo “AndersSein vereint - Inklusionssong für Deutschland”: [https://youtu.be/KPi9ZNp-YJQ](https://youtu.be/KPi9ZNp-YJQ "https://youtu.be/KPi9ZNp-YJQ")
-
-Blog “Grenzen sind relativ - Musik, Hören & Inklusion”: [https://www.grenzensindrelativ.de/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion](https://www.grenzensindrelativ.de/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion "https://www.grenzensindrelativ.de/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion")
-
-Blog “Auf in eine neue Beziehungskultur!”:
-
-[https://www.grenzensindrelativ.de/media/blog/auf-in-eine-neue-beziehungskultur](https://www.grenzensindrelativ.de/media/blog/auf-in-eine-neue-beziehungskultur "https://www.grenzensindrelativ.de/media/blog/auf-in-eine-neue-beziehungskultur")
+<video-gallery name="startseite-video-galerie"></video-galerie>

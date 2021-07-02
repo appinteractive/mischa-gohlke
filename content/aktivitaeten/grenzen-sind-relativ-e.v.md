@@ -1,7 +1,7 @@
 ---
-teaser: ''
+teaser: '/media/2020/09/gsr-fb-banner_2018-1.jpg'
 title: Grenzen sind relativ e.V.
-description: ''
+description: 'Mit einer an Taubheit grenzenden Hörschädigung ist Mischa Gohlke „trotz“ oder/und gerade wegen seines vermeintlichen Handicaps den Weg als Profimusiker eingeschlagen und hat damit das scheinbar Unmögliche möglich gemacht. Als glaubwürdiger Botschafter initiierte er im Oktober 2011 die deutschlandweit einmalige Initiative „Grenzen sind relativ“, welche sich in verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und friedliche Gesellschaft einsetzt und seit September 2016 als gemeinnütziger Verein anerkannt ist.'
 wide: false
 gallery: []
 alias: ''
