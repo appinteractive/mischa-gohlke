@@ -18,6 +18,7 @@ export default {
   // },
   /*
    ** Nuxt target
+
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: 'static',
@@ -108,8 +109,7 @@ export default {
     config: {},
   },
   modules: [
-    // '@nuxtjs/pwa',
-    // Doc: https://github.com/nuxt/content
+    '@nuxtjs/pwa',
     '@nuxt/content',
     '@nuxtjs/sitemap',
     // [
@@ -188,11 +188,11 @@ export default {
     },
     manifest: {
       name: settings.title,
-      short_name: 'GSR e.V.',
+      short_name: 'Mischa Gohlke',
       description: settings.description,
       theme_color: '#fff',
       appleStatusBarStyle: 'white',
-      ogImage: '/media/2020/10/social-banner-2020-5.jpg',
+      ogImage: '/icon.png',
     },
   },
 }
