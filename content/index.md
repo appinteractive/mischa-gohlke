@@ -7,6 +7,9 @@ gallery: []
 alias: ''
 
 ---
+
+<teaser-video></teaser-video>
+
 # Über mich
 
 **Mischa Gohlke ist Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Projektleiter von “Grenzen sind relativ e.V.”. Und vor allem Mensch.**

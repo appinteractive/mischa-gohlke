@@ -43,6 +43,7 @@
     "swiper": "^6.7.5",
     "vue-awesome-swiper": "^4.1.1",
     "vue-observe-visibility": "^1.0.0",
+    "vue-responsive-video-background-player": "1.2.2",
     "vue-svg-loader": "^0.16.0"
   },
   "devDependencies": {

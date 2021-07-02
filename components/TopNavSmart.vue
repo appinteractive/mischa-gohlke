@@ -20,7 +20,7 @@
             aria-label="Startseite"
           >
             <Logo
-              class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
+              class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6 h-10"
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
@@ -53,7 +53,7 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
+          class="mt-12 md:mt-0 !pt-1 flex-grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"
