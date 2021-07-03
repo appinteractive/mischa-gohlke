@@ -1,16 +1,24 @@
 {
   "videos": [
     {
+      "title": "Mischa Gohlke Band - Teaser",
+      "videoId": "D2xro2s2Crs "
+    },
+    {
+      "title": "NDR SH-Magazin - \"Mischa Gohlke - Musiker ohne Gehör\"",
+      "videoId": "7RohEwmDdXY"
+    },
+    {
+      "title": "Amelinde.de - Interview mit Mischa Gohlke",
+      "videoId": "YXwlsITaGBo"
+    },
+    {
       "title": "Musikvideo - \"AndersSein vereint - Inklusionssong für Deutschland\"",
       "videoId": "KPi9ZNp-YJQ"
     },
     {
       "title": "NDR DAS! Magazin - \"Ein Inklusionssong für Deutschland\"",
       "videoId": "BPQpJT0kyMw"
-    },
-    {
-      "title": "NDR SH-Magazin - \"Mischa Gohlke - Musiker ohne Gehör\"",
-      "videoId": "7RohEwmDdXY"
     },
     {
       "title": "BR3 Sehen statt Hören - \"Mischa Gohlke: Grenzen sind relativ\"",
@@ -29,16 +37,8 @@
       "videoId": "YtkNIEK4zEs"
     },
     {
-      "title": "Amelinde.de - Interview mit Mischa Gohlke",
-      "videoId": "YXwlsITaGBo"
-    },
-    {
       "title": "Zu Gast bei KRAUTHAUSEN - face to face: Mischa Gohlke",
       "videoId": "HdGdU3JdKVQ"
-    },
-    {
-      "title": "vollWert - \"Musik und Inklusion - AndersSein vereint\"",
-      "videoId": "LlIbuEv-7AM"
     }
   ]
 }
