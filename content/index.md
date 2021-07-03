@@ -1,5 +1,5 @@
 ---
-teaser: ''
+teaser: "/media/2021/07/mischa-gohlke-portrait-_-foto-by-marianne-moosherr-2-1.jpg"
 title: Über mich
 description: ''
 wide: true
