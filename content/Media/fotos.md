@@ -7,3 +7,5 @@ gallery: []
 alias: ''
 ---
 # Fotos
+
+> Dummy Page
