@@ -60,12 +60,12 @@
       "showInMainNavigation": true,
       "children": [
         {
-          "title": "Pressespiegel",
-          "page": "content/media/pressespiegel.md"
-        },
-        {
           "title": "Videos",
           "page": "content/media/videos.md"
+        },
+        {
+          "title": "Pressespiegel",
+          "page": "content/media/pressespiegel.md"
         },
         {
           "title": "Fotos",
