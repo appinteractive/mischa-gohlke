@@ -19,7 +19,7 @@ Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
 
 In der nach ihm benannten [Mischa Gohlke Band](https://mischagohlkeband.de/) fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
 
-Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den Schlagzeuger Jorge Bläsi (Popkurs, Martin Oberleitner, usw.).
+Komplettiert wird die Band durch den Bassisten [David Alleckna](https://alleckna.de/) (Phil Collins, Udo Lindenberg, Inga Rumpf, Sasha, Nena) und den Schlagzeuger [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) (Udo Lindenberg, Selig, Heinz Rudolf Kunze, Patricia Kaas, Helene Fischer).
 
 Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho.
 
@@ -27,9 +27,7 @@ Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen l
 
 Webseite: [https://mischagohlkeband.de/](https://mischagohlkeband.de/  "https://mischagohlkeband.de/")
 
-_Referenzen:_
-
-_Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam._
+_Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, Zeit, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam._
 
 _Bisher bespielte Bühnen: Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena, uvam._
 
