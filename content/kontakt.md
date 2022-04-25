@@ -9,8 +9,4 @@ teaser: "/media/2021/07/mischa-gohlke-2021-_-foto-by-betty-schatzchen.JPG"
 ---
 # Kontakt
 
-Mischa Gohlke  
-Wrangelstrasse 103  
-20235 Hamburg
-
 E-Mail: mail@mischagohlke.de
